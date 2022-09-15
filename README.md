@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joroze
 - 👀 I’m interested in application development (NodeJS + React)
-- 🌱 I’m currently making Healthcare Tech a better place
+- 🌱 I’m currently making technology in Healthcare a better place
 - 📫 How to reach me - https://joroze.com
 
 <!---
