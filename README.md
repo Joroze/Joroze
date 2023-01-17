@@ -4,7 +4,7 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
-👋 Hi, I’m @Joroze
+Hi, I’m @Joroze 👋
 - 👀 I’m interested in application development using NodeJS, Typescript, and React
 - 🌱 I’m currently making Healthcare a better place using cutting edge tech
 - 📫 How to reach me - https://joroze.com
