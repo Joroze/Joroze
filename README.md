@@ -3,6 +3,10 @@
 - 🌱 I’m currently making Healthcare a better place using cutting edge tech
 - 📫 How to reach me - https://joroze.com
 
+<a href="https://www.linkedin.com/in/joroze/">
+  <img align="left" alt="Jordan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
 
