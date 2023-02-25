@@ -6,7 +6,7 @@
 
 Hi, I’m @Joroze 👋
 - 👀 I’m interested in application development using Typescript and NodeJS
-- 🌱 I’m currently making Healthcare a better place using cutting edge tech
+- 🚀 I’m currently making Healthcare a better place using cutting edge tech
 - 📫 How to reach me - https://joroze.com
 
 
