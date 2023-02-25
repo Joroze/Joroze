@@ -5,7 +5,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
 Hi, I’m @Joroze 👋
-- 👀 I’m interested in application development using Typescript and NodeJS
+- 👀 I’m interested in application development using Typescript, NodeJS, and the cloud
 - 🚀 I’m currently making the Healthcare Industry better through cutting edge tech
 - 📫 How to reach me - https://joroze.com
 
