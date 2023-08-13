@@ -2,6 +2,7 @@
   Jordan's LinkedIn
   <img align="left" width="22px" src="https://github.com/Joroze/Joroze/assets/1338914/5ee40cff-226d-40ce-80cd-12e3c1251a34" />
 </a>
+
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
 Hi, I’m @Joroze 👋
