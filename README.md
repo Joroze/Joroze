@@ -7,9 +7,9 @@ Hi, I’m @Joroze 👋
 
 Here are some sample (for fun) projects:
 - [Personal Landing Page](https://joroze.com)
-- [Medical Practitioner's Showcase POC](https://adamroze.vercel.app/)
 - [SSharely](https://ssharely.joroze.com/)
 - [Dynamic Questionnaire POC for Tomorrow Health](https://questionnaire.joroze.com/)
+- [Medical Practitioner's Showcase POC](https://adamroze.vercel.app/)
 - [Nike Dunks Showcase 🌈](https://dunks.joroze.com/)
 - [Visual Shortest Path Tree Traversal](http://joroze.com/AI/)
 
