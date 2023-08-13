@@ -5,6 +5,14 @@ Hi, I’m @Joroze 👋
 - 🚀 I’m currently making the Healthcare Industry better through cutting edge tech
 - 📫 How to reach me - https://joroze.com
 
+Here are some sample (for fun) projects:
+- [Personal Landing Page](https://joroze.com)
+- [Medical Practitioner's Showcase POC](https://adamroze.vercel.app/)
+- [SSharely](https://ssharely.joroze.com/)
+- [Dynamic Questionnaire POC for Tomorrow Health](https://questionnaire.joroze.com/)
+- [Nike Dunks Showcase 🌈](https://dunks.joroze.com/)
+- [Visual Shortest Path Tree Traversal](http://joroze.com/AI/)
+
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
 <!---
