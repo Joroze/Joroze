@@ -1,6 +1,8 @@
+![LinkedIn_icon](https://github.com/Joroze/Joroze/assets/1338914/cf9bac26-6149-4ea7-95e0-bb38a2ce273f)
+[![LinkedIn_icon](https://github.com/Joroze/Joroze/assets/1338914/cf9bac26-6149-4ea7-95e0-bb38a2ce273f)](https://www.linkedin.com/in/your-profile-url/)
+
 <a href="https://www.linkedin.com/in/joroze/">
   <img width="22px" src="https://github.com/Joroze/Joroze/assets/1338914/5ee40cff-226d-40ce-80cd-12e3c1251a34" />
-    Jordan's LinkedIn
 </a>
 
 Hi, I’m @Joroze 👋
