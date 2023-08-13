@@ -1,4 +1,5 @@
 <a href="https://www.linkedin.com/in/joroze/">
+  ![LinkedIn_icon](https://github.com/Joroze/Joroze/assets/1338914/700ae710-6f1a-4d5f-9181-4427d75318fa)
   <img align="left" alt="Jordan's LinkedIn" width="22px" src="https://github.com/Joroze/Joroze/assets/1338914/5ee40cff-226d-40ce-80cd-12e3c1251a34" />
 </a>
 
