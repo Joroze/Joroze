@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/joroze/">
-  Contact me on LinkedIn
-</a>
+💌 [Contact me on LinkedIn](https://www.linkedin.com/in/joroze/)
 
 Hi, I’m @Joroze 👋
 - 👀 I’m interested in application development using Typescript, NodeJS, and the cloud
