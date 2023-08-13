@@ -1,6 +1,8 @@
 <a href="https://www.linkedin.com/in/joroze/">
+<div>
   Jordan's LinkedIn
-  <img align="left" width="22px" src="https://github.com/Joroze/Joroze/assets/1338914/5ee40cff-226d-40ce-80cd-12e3c1251a34" />
+  <img width="22px" src="https://github.com/Joroze/Joroze/assets/1338914/5ee40cff-226d-40ce-80cd-12e3c1251a34" />
+</div>
 </a>
 
 Hi, I’m @Joroze 👋
