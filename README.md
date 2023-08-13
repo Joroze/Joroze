@@ -6,12 +6,12 @@ Hi, I’m @Joroze 👋
 - 📫 How to reach me - https://joroze.com
 
 Here are some sample (for fun) projects:
-- [Personal Landing Page](https://joroze.com)
-- [SSharely](https://ssharely.joroze.com/)
-- [Dynamic Questionnaire POC for Tomorrow Health](https://questionnaire.joroze.com/)
-- [Medical Practitioner's Showcase POC](https://adamroze.vercel.app/)
+- [Personal Landing Page 🧔](https://joroze.com)
+- [SSharely Coupon Provider 💸](https://ssharely.joroze.com/)
+- [Dynamic Questionnaire POC for Tomorrow Health 🐦](https://questionnaire.joroze.com/)
+- [Medical Practitioner's Showcase POC ⚕️](https://adamroze.vercel.app/)
 - [Nike Dunks Showcase 🌈](https://dunks.joroze.com/)
-- [Visual Shortest Path Tree Traversal](http://joroze.com/AI/)
+- [Visual Shortest Path Tree Traversal 🕸️](http://joroze.com/AI/)
 
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
