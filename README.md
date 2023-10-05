@@ -11,7 +11,7 @@ Here are some sample (for fun) projects:
 - [Dynamic Questionnaire POC for Tomorrow Health 🐦](https://questionnaire.joroze.com/)
 - [Medical Practitioner's Showcase POC ⚕️](https://adamroze.vercel.app/)
 - [Nike Dunks Showcase 🌈](https://dunks.joroze.com/)
-- [Visual Shortest Path Tree Traversal 🕸️](http://joroze.com/AI/)
+- [Visual Shortest Path Tree Traversal 🕸️](http://ai.joroze.com/)
 
 ![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
 
