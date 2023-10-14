@@ -1,5 +1,3 @@
-[Contact me on LinkedIn](https://www.linkedin.com/in/joroze/) ☕ 📨
-
 Hi, I’m @Joroze 👋
 - 👀 I’m interested in application development using Typescript, NodeJS, and the cloud
 - 🚀 I’m currently making the Healthcare Industry better through cutting edge tech
@@ -13,9 +11,9 @@ Here are some sample (for fun) projects:
 - [Nike Dunks Showcase 🌈](https://dunks.joroze.com/)
 - [Visual Shortest Path Tree Traversal 🕸️](http://ai.joroze.com/)
 
-![ViewCount](https://views.whatilearened.today/views/github/Joroze/views.svg)
-
-<!---
-Joroze/Joroze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="right">
+  <h4>Let's connect:</h4>
+  <a href="https://www.linkedin.com/in/joroze/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30px" alt="linkedin logo"  />
+  </a>
+</div>
