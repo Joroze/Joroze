@@ -1,6 +1,6 @@
 Hi, I’m @Joroze 👋
-- 👀 I’m interested in application development using Typescript, NodeJS, and the cloud
-- 🚀 I’m currently making the Healthcare Industry better through cutting edge tech
+- 🚀 I’m currently making the healthcare industry a better place
+- 👀 I’m interested in web app development using Typescript, NodeJS, and the cloud
 - 📫 How to reach me - https://joroze.com
 
 Here are some sample (for fun) projects:
